@@ -1,0 +1,36 @@
+{
+New registration: 
+Date and hour: 25/01/2017 13:00
+Name: Jasper van de Kant
+Birthdate: 04/12/1992
+Name Nurse: Jan Janssen
+Diagnose: Van alles mee mis.
+}
+
+{
+New registration: 
+Date and hour: 25/01/2017 14:00
+Name: Gerry Berry
+Birthdate: 21/1/1995
+Name Nurse: Sanne Panne
+Diagnose: Gebroken arm.
+}
+
+{
+New registration: 
+Date and hour: 25/01/2017 13:00
+Name: Jasper van de Kant
+Birthdate: 04/12/1992
+Name Nurse: Jan Janssen
+Diagnose: Van alles mee mis.
+}
+
+{
+New registration: 
+Date and hour: 25/01/2017 14:00
+Name: Gerry Berry
+Birthdate: 21/1/1995
+Name Nurse: Sanne Panne
+Diagnose: Gebroken arm.
+}
+
