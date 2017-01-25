@@ -1,0 +1,9 @@
+REST: Sneller, Veel lichter (bandwith, learning curve), geen standaard. - Clients moeten weten wat te zenden en te verwachten (architectuur) geen standaard die door bv W3C beheerd wordt 
+SOAP: Voorziet mogelijkheden om zichzelf te omschrijven aan clients (handiger voor complexe dingen, die waarschijnlijk veranderen) (protocol)
+
+Antwoorden:
+3.
+REST is een soort architectuur en SOAP is een protocol. Het zijn twee verschillende zaken, waarmee echter dezelfde doeleinden bereikt kunnen worden.
+
+4. 
+REST kan ook met XML of JSON files werken. Door de ontvangen files te checken, kan men type safety bereiken. Dit is echter de verantwoordelijkheid van de programmeur.
